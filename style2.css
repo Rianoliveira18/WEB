@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(https://img.freepik.com/vetores-premium/linhas-de-circuito-abstrato-tecnologia-futurista-digital-fundo-de-alta-tecnologia-ilustracao-vetorial_115579-1746.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    font-size: 100%;
+    color: white;
+}
+img{
+    width: 17%;
+    
+}
+a{
+    background-color: #ccc;
+    display: block;
+    padding: 12px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin-left: none;
+    width: fit-content;
+}
+p{
+    font-size: 50px;
+}

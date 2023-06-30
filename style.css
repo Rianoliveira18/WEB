@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(https://img.freepik.com/vetores-gratis/projeto-de-fundo-de-tecnologia-de-linhas-de-circuito-vermelho-digital_1017-27263.jpg?w=1380&t=st=1688084816~exp=1688085416~hmac=4f8b168a7928908dc666a189d37ccf7993e9d689b6152edaa44ffeaccff15383);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    font-size: 100%;
+    color: white;
+}
+img{
+    width: 17%;
+    
+}
+a{
+    background-color: #ccc;
+    display: block;
+    padding: 12px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin-left: none;
+    width: fit-content;
+}
+
+p{
+    font-size: 50px;
+}
